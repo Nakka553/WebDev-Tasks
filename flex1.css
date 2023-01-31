@@ -1,0 +1,50 @@
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  background-color: pink;
+  height: 50%;
+  width: 50%;
+}
+
+.f1 {
+  border: black solid;
+  background-color: red;
+  height: 50px;
+  width: 50px;
+}
+
+.f2 {
+  background-color: red;
+  border: black solid;
+  height: 50px;
+  width: 50px;
+}
+
+.f3 {
+  border: black solid;
+  background-color: red;
+  height: 50px;
+  width: 50px;
+}
+
+.f4 {
+  background-color: red;
+  border: black solid;
+  height: 50px;
+  width: 50px;
+}
+
+.f5 {
+  border: black solid;
+  background-color: red;
+  height: 50px;
+  width: 50px;
+}
+
+.f6 {
+  border: black solid;
+  background-color: red;
+  height: 50px;
+  width: 50px;
+}
