@@ -1,0 +1,23 @@
+.container
+{
+    display: grid;
+    grid-area: auto;
+    height: 100%;
+    gap: 10px;
+    text-align: center;
+
+}
+.part1
+{
+    border: 3px red solid;
+    border-radius: 5px;
+    grid-area: 1/1/2/5;
+
+}
+
+.part2
+{
+    border:3px red solid;
+    border-radius: 5px;
+    grid-area: 1/5/2/13;
+}
