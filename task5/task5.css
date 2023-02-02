@@ -1,0 +1,30 @@
+.container {
+    display: grid;
+    grid-area: auto;
+    height: 100%;
+    text-align: center;
+}
+
+.d1 {
+    border: 3px red solid;
+    border-radius: 10px;
+    grid-area: 1/1/4/4;
+}
+
+.d2 {
+    border: 3px red solid;
+    border-radius: 10px;
+    grid-area: 4/4/7/7;
+}
+
+.d3 {
+    border: 3px red solid;
+    border-radius: 10px;
+    grid-area: 7/7/10/10;
+}
+
+.d4 {
+    border: 3px red solid;
+    border-radius: 10px;
+    grid-area: 10/10/13/13;
+}

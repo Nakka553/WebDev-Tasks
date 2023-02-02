@@ -1,0 +1,94 @@
+
+    .main {
+        border: 2px solid rgb(247, 243, 243);
+        height: 500px;
+        background-image: url("https://images.unsplash.com/photo-1674493310933-e681279e5664?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80");
+        background-size: cover;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    .name {
+        padding-top: 50px;
+        margin-left: 50px;
+        color: white;
+    }
+
+    .links {
+        margin-left: 750px;
+
+    }
+
+    a {
+        color: white;
+        text-decoration: none;
+    }
+
+
+    .head {
+        margin-left: 50px;
+        margin-top: 50px;
+        color: white;
+    }
+
+    .port {
+        text-align: center;
+        height: 30px;
+        width: 80px;
+        border: 2px solid blue;
+    }
+
+    .p1 {
+        text-align: center;
+        padding-left: 300px;
+        padding-right: 300px;
+    }
+
+    .p2 {
+        padding-left: 300px;
+        padding-right: 300px;
+
+    }
+
+    .p3 {
+        padding-left: 300px;
+        padding-right: 300px;
+        text-align: center;
+    }
+
+    #ser {
+        border: 2px solid black;
+        border-radius: 10px;
+        height: 300px;
+        width: 300px;
+        padding: 10px;
+        background-color: grey;
+
+    }
+
+    .services {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+    }
+
+    .main2 {
+        display: flex;
+        
+
+    }
+    .img
+    {
+        border: 5px black solid;
+        height: 100px;
+        width: 100px;
+    }
+    .text
+    {
+        border: 5px black solid;
+        height: 100px;
+        width: 100px;
+    }
