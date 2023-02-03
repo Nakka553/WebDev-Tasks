@@ -1,0 +1,232 @@
+
+    .main {
+        border: 2px solid rgb(247, 243, 243);
+        height: 500px;
+        background-image: url("https://tse2.mm.bing.net/th?id=OIP.f7FUDt3zRbKKTsKZXPpTRQHaEK&pid=Api&P=0");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    a:hover
+    {
+        border: 1px solid black;
+        border-radius: 5px;
+        background-color: grey;
+        height: 50px;
+        width: 50px;
+    }
+
+    #NR
+    {
+        color: red;
+    }
+
+    .name {
+        color: white;
+        
+        
+    }
+
+    .links {
+        
+        margin-left: 70%;
+
+    }
+
+    a {
+        color: white;
+        text-decoration: none;
+    }
+
+
+    .head {
+        margin-left: 50px;
+        font-size: 40px;
+        margin-top: 50px;
+        color: white;
+    }
+
+    .ex{
+        
+        font-size: 30px;
+        height: 30px;
+        width: 140px;
+        border: 2px solid white;
+    }
+
+    .p1 {
+        text-align: center;
+        padding-left: 300px;
+        padding-right: 300px;
+    }
+
+    .p2 {
+        padding-left: 300px;
+        padding-right: 300px;
+
+    }
+
+    .p3 {
+        padding-left: 300px;
+        padding-right: 300px;
+        text-align: center;
+    }
+
+    #ser {
+        border: 1px solid black;
+        border-radius: 10px;
+        height: 300px;
+        width: 300px;
+        padding: 10px;
+        background-image: url("https://tse4.mm.bing.net/th?id=OIP.d6kGSAmeean2rnetdoc_DwFNC7&pid=Api&P=0");
+        background-size: cover;
+
+        
+
+    }
+
+    .services {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+    }
+
+
+    .main2 {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap:5px ;
+        text-align: center;
+    }
+
+    
+    .img
+    {
+        background-image: url("https://images.pexels.com/photos/3183198/pexels-photo-3183198.jpeg?auto=compress&cs=tinysrgb&w=600");
+        border:1px  black solid;
+        height: 300px;
+        width:600px;
+        background-size: cover;
+        
+    }
+    .text
+    {
+       background-image: url("https://tse1.mm.bing.net/th?id=OIP.OzlZXllWQZ5TNSV7iBj8pgHaDe&pid=Api&P=0");
+        border: 1px black solid;
+     border-radius: 10px;
+        height: 300px;
+        width: 600px;
+        border-radius: 2px;
+        background-size: cover;
+    }
+
+.main3
+{
+    display: grid;
+    grid-area: auto;
+    gap: 120px;
+    justify-content: center;
+}
+
+.g1
+{
+    border: 5px red solid;
+    grid-area: 2/1/4/5;
+    margin-left: 150px;
+    position: relative;
+   
+}
+
+.bord
+{
+    position: absolute;
+    bottom: 20px;
+    left: 10px;
+    
+}
+.g2
+{
+    border:1px black solid ;
+    grid-area: 1/5/3/12;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-right: 150px;
+    
+   
+}
+.g3
+{
+    border:2px rgb(247, 5, 5) solid ;
+    grid-area: 3/7/4/9;
+    text-align: center;
+    border-radius: 5px;
+  
+}
+
+.main4
+{
+    display: grid;
+    grid-area: auto;
+    gap: 5px;
+    justify-content: center;
+    background-image: url("https://tse2.mm.bing.net/th?id=OIP.T0l5AvOQgtHfVyy6DtDeQAHaG9&pid=Api&P=0");
+    background-size:cover;
+    
+}
+
+.CI
+{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.c
+{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.c1
+{
+    border: 1px black solid ;
+    height: 200px;
+    width: 400px;
+    grid-area: 1/1/3/3;
+    display:flex ;
+    gap: 5px;
+    border-radius: 5px;
+
+}
+
+.c2
+{
+    border: 1px black solid ;
+    height: 200px;
+    width: 400px;
+    grid-area: 1/3/3/6;
+    display: flex;
+    gap: 5px;
+    border-radius: 5px;
+}
+
+.c3
+{
+    border: 1px black solid ;
+    height: 200px;
+    width: 400px;
+    display: flex;
+    gap: 5px;
+    grid-area: 1/6/5/9;
+    border-radius: 5px;
+}
+
+.end
+{
+    border: 1px black solid;
+    text-align: center;
+    background-color: grey;
+    height: 200px;
+    background-image: url("https://tse2.mm.bing.net/th?id=OIP.KIDvhKhpCZdOmvqGHqX3wQHaEo&pid=Api&P=0");
+    background-size: cover;
+}
