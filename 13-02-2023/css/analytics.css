@@ -1,0 +1,59 @@
+body
+{
+    overflow-x: hidden;
+}
+
+.head
+{
+    background-color:  #0F1F4B;
+}
+
+
+.try-btn
+{
+    background-color: #EF2A82;
+    color: white;
+    border-radius: 10px;
+
+}
+
+
+.s3
+{
+    background-color: #0F1F4B;
+    height: 100%;
+    text-align: center;
+}
+
+
+.cards {
+    background-color: #0F1F4B;
+    width: 200px;
+    height: 300px;
+    border-radius: 30px;
+    border: #1d2d5b solid 1px;
+    
+}
+.card {
+    background-color: #FFFFFF;
+    color: #172755;
+    width: 200px;
+    height: 300px;
+    border-radius: 30px;
+    
+}
+
+.ctext {
+    padding-top: 60px;
+}
+.order-btn {
+    font-size: 20px;
+    background-color: #EF2A82;
+}
+
+.l-text
+{
+    color:#8794BA;
+    text-decoration: none;
+
+}
