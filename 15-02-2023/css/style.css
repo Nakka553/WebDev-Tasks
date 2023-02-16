@@ -1,0 +1,114 @@
+:root
+{
+
+    --title-font: 'Play', sans-serif;
+    --sub-font:"Times New Roman", serif;
+
+}
+
+.bd
+{
+
+   background-color: #040f87;
+}
+
+.buy
+{
+    font-family: var(--title-font);
+}
+
+.bb
+{
+    color: #daa520;
+}
+
+.navs
+{
+    font-family: var(--title-font);
+}
+
+hr
+{
+        height: 2px;
+        background: #daa520;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+.connect
+{
+    color: white;
+    background:#08bd49;
+    font-family: var(--title-font);
+    
+}
+
+svg
+{
+    color: #daa520;
+
+}
+
+.svg
+{
+    padding-left: 10px;
+}
+
+.betbutton
+{
+    font-family: var(--title-font);
+}
+
+.main
+{
+    font-family: var(--title-font);
+    
+}
+
+.sub
+{
+    font-family: var(--sub-font);
+}
+
+
+.betbutton
+{
+    color: white;
+    background-color: #daa520;
+    border-radius: none;
+}
+.fifa
+{
+    color:#daa520
+}
+
+.em
+{
+    height: 70px;
+    margin-bottom: 10px
+}
+
+.sm
+{
+    height: 70px;
+    margin-bottom: 10px
+}
+
+.por
+{
+    font-size: 4vh;
+    font-weight: bold;
+margin-top: 13px;
+    font-family: var(--title-font);
+}
+
+.srb
+{
+    font-size: 4vh;
+    font-weight: bold;
+    margin-top: 13px;
+    font-family: var(--title-font);
+}
