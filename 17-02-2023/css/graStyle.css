@@ -1,0 +1,88 @@
+.bd {
+    background-image: url('../images/bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+   background-size: 100%;
+    font-family: 'Montserrat Alternates', sans-serif;
+
+}
+
+.pro-btn:hover {
+
+    background-color: rgba(255, 255, 255, 0.323);
+}
+
+.div-bg {
+    background-color: rgba(255, 255, 255, 0.158);
+}
+
+
+li {
+    list-style-type: none;
+
+
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+input {
+    background-color: transparent !important;
+    border: 2px solid white;
+    border-radius: 5px;
+    padding: 5px;
+    width: 75%;
+    font-family: 'Montserrat Alternates', sans-serif;
+    color: white;
+    font-weight: bold;
+}
+
+@media(max-width:600px) {
+
+    .bd{
+        background-repeat: repeat;
+        z-index: 1;
+    }
+    .user {
+        
+        z-index: 1;
+        text-align: center;
+
+    }
+
+    .profile
+    {
+        font-weight:bolder;
+    }
+
+    .user1 {
+
+        z-index: 1;
+        text-align: center;
+        font-size:40px;
+    }
+
+    .inputs {
+        margin-left: 50px;
+        margin-right: auto;
+        z-index: 1;
+
+
+    }
+
+    .pro {
+      
+        z-index: 1;
+        text-align: center;
+
+    }
+
+    .bd
+    {
+        padding: 25px;
+        background-size: 100%;
+    }
+
+}
